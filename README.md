@@ -1,7 +1,10 @@
 Pesquisa sobre profissionais de um pequeno grupo de TI
 ================
 
-Build with R 3.6.0 By \* Gabriela Entringe e \*\* Marcus Di Paula.
+Build with R 3.6.0
+
+By \* Gabriela Entringe (project owner) e \*\* Marcus Di Paula (R
+language).
 
 ``` r
 # Bibliotecas usadas
